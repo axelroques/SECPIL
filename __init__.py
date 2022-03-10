@@ -1,0 +1,10 @@
+
+# Window parameters
+WIDTH = 1280
+HEIGHT = 720
+BACKGROUND_COLOR = (19, 19, 19)
+
+# Background parameters (x, y, w, h)
+PALONNIER_WINDOW = (40, 40, 1060, 100)
+NUMBER_WINDOW = (1140, 40, 100, 100)
+JOYSTICK_WINDOW = (40, 160, 1200, 520)
